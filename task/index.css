@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+header{
+    background-image: url('img/header.jpg');
+    width: 100%;
+    height:500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-size: 20px;
+}
+header section {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 35px;
+}
+header section .about {
+    display: inline-block;
+
+}
+header img {
+    margin: 110px 110px 3px 110px;
+}
+#center {
+margin: 0% 100px 0px 100px;
+}
+span , h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+}
+main h3 {
+    text-align: center;
+}
+main p{
+    display: inline-block ;
+    margin: 46px -168px 100px 186px;
+    font-size: 20px;
+}
+article {
+    padding: 50px;
+    background-color:whitesmoke;
+}
+article p {
+    margin: 10px;
+}
+.imgs {
+    position: relative;
+}
+.imgs img {
+    width: 266px;
+    
+    float: left;
+    
+}
+.client {
+position: relative;
+text-align: center;
+top:50px;
+}
+.client img{
+    width: 100px;
+    margin-right: 100px; 
+}
+.san {
+    background-image:url('img/sep.jpg');
+    position: relative;
+    top: 100px;
+    text-align: center;
+    height: 350px;
+    background-position: cover;
+    color: white;
+}
+.san p {
+    border: solid 1px white;
+    width: 267px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 40%;
+    margin-top: 40px;
+}
+.san h4{
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    background: rgb(31, 161, 212);
+    position: relative;
+    bottom:0px;
+    height: 100px;
+}
+footer img {
+    margin-left:65px; 
+}
